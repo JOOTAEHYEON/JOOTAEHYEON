@@ -2,6 +2,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20TaeHyeon's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
+<div align=center>👋 SW로 세상을 바꾸고 싶은, 백엔드 개발자 주태현 입니다.</div>
+
 <div align=center><h1>📚 TECK STACKS</h1></div>
 
 <div align=center> 
