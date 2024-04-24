@@ -4,6 +4,8 @@
 
 <div align=center>👋 SW로 세상을 바꾸고 싶은, 백엔드 개발자 주태현 입니다.</div>
 
+
+
 <div align=center><h1>📚 TECK STACKS</h1></div>
 
 <div align=center> 
@@ -27,8 +29,13 @@
   <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
   <img src="https://img.shields.io/badge/springboot-6DB33F?style=for-the-badge&logo=springboot&logoColor=white">
   <br>
-
 </div>
+<br>
+
+<div align=center><h1>📫 How to reach me</h1></div>
+
+&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;&emsp;
+[![Gmail Badge](https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=mailto:snugyun01@gmail.com)](mailto:xogus9753@gmail.com) 
 
 <!--
 **JOOTAEHYEON/JOOTAEHYEON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
