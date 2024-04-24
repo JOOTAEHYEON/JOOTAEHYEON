@@ -2,7 +2,11 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=timeGradient&text=Welcome%20to%20TaeHyeon's%20GitHub%20&animation=twinkling&fontSize=35&fontAlignY=40&fontAlign=70&height=250)
 
+<img alt="Static Badge" src="https://img.shields.io/badge/JAVA?style=flat&logo=JAVA&logoColor=white">
 
+<img alt="Python" src ="https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white"/>
+<img alt="Java" src ="https://img.shields.io/badge/JAVA-3776AB.svg?&style=for-the-badge&logo=java&logoColor=white"/>
+<img alt="spring" src ="https://img.shields.io/badge/Spring-#6DB33F.svg?&style=for-the-badge&logo=Spring&logoColor=white"/>
 <!--
 **JOOTAEHYEON/JOOTAEHYEON** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
